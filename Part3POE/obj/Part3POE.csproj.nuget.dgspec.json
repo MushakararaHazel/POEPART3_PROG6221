@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\Part3POE.csproj": {}
+    "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\Part3POE.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\Part3POE.csproj": {
+    "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\Part3POE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\Part3POE.csproj",
+        "projectUniqueName": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\Part3POE.csproj",
         "projectName": "Part3POE",
-        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\Part3POE.csproj",
+        "projectPath": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\Part3POE.csproj",
         "packagesPath": "C:\\Users\\lab_services_student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\obj\\",
+        "outputPath": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

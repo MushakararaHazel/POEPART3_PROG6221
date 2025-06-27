@@ -120,6 +120,31 @@ namespace Part3POE
                 infoPage.ShowDialog();
                 return "Opening cybersecurity info page...";
             }
+            // ✅ CYBERSECURITY INFO WINDOW TRIGGERS
+            if (input.Contains("more cybersecurity tips") ||
+                input.Contains("learn more about cybersecurity") ||
+                input.Contains("learn cybersecurity") ||
+                input.Contains("show more tips") ||
+                input.Contains("security help") ||
+                input.Contains("can i learn more") ||
+                input.Contains("i want more cybersecurity"))
+            {
+                activityLog.Add($"[Cyber] {DateTime.Now:HH:mm} - User asked for more cybersecurity info.");
+
+                string shortTips = "Here are a few quick cybersecurity tips:\n" +
+                                   "1. Use strong, unique passwords.\n" +
+                                   "2. Enable two-factor authentication.\n" +
+                                   "3. Be cautious with public Wi-Fi.\n\n" +
+                                   "Opening the Cybersecurity Info window for more...";
+
+                Dispatcher.Invoke(() =>
+                {
+                    CyberSecurityInfoPage infoPage = new CyberSecurityInfoPage();
+                    infoPage.Show();
+                });
+
+                return shortTips;
+            }
 
             // ✅ ACTIVITY LOG
             if (input.Contains("activity log") || input.Contains("what have you done"))

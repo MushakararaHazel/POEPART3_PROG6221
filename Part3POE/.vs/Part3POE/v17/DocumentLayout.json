@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\",
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|c:\\users\\lab_services_student\\desktop\\programming\\part3poe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|c:\\users\\lab_services_student\\desktop\\poepart3_prog6221\\part3poe\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|c:\\users\\lab_services_student\\desktop\\programming\\part3poe\\nlpsimulation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|c:\\users\\lab_services_student\\desktop\\poepart3_prog6221\\part3poe\\nlpsimulation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|solutionrelative:nlpsimulation.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|c:\\users\\lab_services_student\\desktop\\programming\\part3poe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|c:\\users\\lab_services_student\\desktop\\poepart3_prog6221\\part3poe\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{E2D4BA86-72B7-4A6E-80EF-613210C2FDCA}|Part3POE.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -32,24 +32,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "NlpSimulation.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\NlpSimulation.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\NlpSimulation.xaml.cs",
               "RelativeDocumentMoniker": "NlpSimulation.xaml.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\NlpSimulation.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\NlpSimulation.xaml.cs",
               "RelativeToolTip": "NlpSimulation.xaml.cs",
               "ViewState": "AgIAAHQAAAAAzMzMzEwiwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-27T09:47:56.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T09:47:56.523Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\MainWindow.xaml.cs",
               "RelativeToolTip": "MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAA0MzMzMz6v48AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-27T09:34:00.531Z",
               "EditorCaption": ""
@@ -58,13 +57,12 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\MainWindow.xaml",
               "RelativeDocumentMoniker": "MainWindow.xaml",
-              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\Programming\\Part3POE\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\POEPART3_PROG6221\\Part3POE\\MainWindow.xaml",
               "RelativeToolTip": "MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-06-27T09:33:54.243Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-27T09:33:54.243Z"
             }
           ]
         }
