@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <ApplicationDefinition Update="App.xaml">
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Update="ActivityLogWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Model\ManageTaskWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Model\TaskManagerWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NlpSimulation.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="PART2\CyberSecurityInfoPage.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="QuestionQuiz.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="ActivityLogWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="MainWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Model\ManageTaskWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Model\TaskManagerWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NlpSimulation.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="PART2\CyberSecurityInfoPage.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="QuestionQuiz.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>

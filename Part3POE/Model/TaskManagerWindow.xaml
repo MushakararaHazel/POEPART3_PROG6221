@@ -1,0 +1,39 @@
+﻿<Window x:Class="Part3POE.Model.TaskManagerWindow"
+   
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Task Manager" Height="520" Width="620">
+    <Grid Margin="10">
+        <StackPanel>
+            <TextBlock Text="Task Manager" FontSize="20" FontWeight="Bold" Margin="0,0,0,10"/>
+
+            <!-- List of Tasks -->
+            <ListBox x:Name="lstTasks" Grid.Row="0" FontSize="14" />
+
+
+            <!-- Input Section for New Task -->
+            <TextBlock Text="Title:"/>
+            <TextBox Name="txtTitle" Margin="0,5"/>
+          
+
+            <TextBlock Text="Description:"/>
+            <TextBox Name="txtDescription" Margin="0,5"/>
+
+            <TextBlock Text="Reminder Date:"/>
+            <DatePicker Name="dateReminder" Margin="0,5"/>
+
+            <!-- Add Task Button -->
+            <Button Content="Add Task" Click="AddTask_Click" Margin="0,10,0,10" Width="100" HorizontalAlignment="Left"/>
+
+            <!-- Manage Tasks -->
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="0,10,0,0">
+                <Button Content="Edit Task" Click="EditTask_Click" />
+
+                <Button Content="Mark Complete" Width="120" Margin="5" Click="CompleteTask_Click"/>
+                <Button Content="Delete Task" Width="100" Margin="5" Click="DeleteTask_Click"/>
+                <Button Content="Return" Width="100" Margin="5" Click="Close_Click"/>
+            
+            </StackPanel>
+        </StackPanel>
+    </Grid>
+</Window>
