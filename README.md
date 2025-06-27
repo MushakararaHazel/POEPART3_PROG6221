@@ -4,7 +4,7 @@ Cyberchat summary
 
 Github link - https://github.com/MushakararaHazel/POEPART3_PROG6221.git 
 
-Video link - Screen Recording 2025-06-27 132124.mp4
+Video link - https://advtechonline-my.sharepoint.com/:v:/g/personal/st10443516_imconnect_edu_za/EbE8f7Afh5xAlfL-ZDE2tuoBBbBjyNgzzMKT5i2_-qzwkg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=BnSCmU
 
 
 Cyberchat is a WPF-based conversational assistant designed to help users interact naturally through typed input. It supports 
